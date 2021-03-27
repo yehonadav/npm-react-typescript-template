@@ -1,3 +1,5 @@
+https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/
+
 # npm-react-typescript-template
 
 A template for publishing a React + TypeScript package to npm
